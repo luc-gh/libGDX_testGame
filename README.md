@@ -10,11 +10,12 @@
     <blockquote>
       <p>
         O código da classe <code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/jogo.java">jogo.java</a></code>
-        contém a lógica de jogo em associação à classes:
+        contém a lógica de jogo em associação às classes:
         <li><code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/bolinha.java">bolinha.java</a></code></li>
         <li><code>
         <a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/ProcessadorInput.java">ProcessadorInput.java</a>
-        </code></li>
+        </code></li><br/>
+        <p>E ao enum:</p>
         <li><code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/EstadoJogo.java">EstadoJogo.java</a></code></li>
       </p>
     </blockquote>
