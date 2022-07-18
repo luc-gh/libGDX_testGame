@@ -31,7 +31,7 @@
     </blockquote>
   </section>
   <section>
-    <p><b>O framework</b></p>
+    <p><b>O framework libGDX</b></p>
     <blockquote>
       <p>
         O framework usado no projeto foi o <a href="https://github.com/libgdx/libgdx"><b>libGDX</b></a>, que oferece diversos recursos para
