@@ -21,7 +21,7 @@
     </blockquote>
   </section>
   <section>
-    <p><b>Arquivos usados</b></p>
+    <p><b>Arquivos usados no projeto</b></p>
     <blockquote>
       <p>
         O arquivo usado no projeto foi a <i>fonte-pixel.ttf</i>, presente na pasta 
