@@ -2,6 +2,14 @@
   libGDX_firstGame
 </h1>
 <p>Este repositório contém classes Java com os códigos de execução de um jogo simples, com auxílio do framework para jogos libGDX.</p>
+<p>
+  O jogo é uma cópia do apresentado no vídeo 
+  <a href="https://www.youtube.com/watch?v=hrWH0v7urb4">Criando um jogo simples com LibGDX (Trabalho POO)</a>, 
+  do canal <a href="https://www.youtube.com/user/deadvitor">venes</a>.
+  <br/>
+  O repositório que contém o código original de autor é <a href="https://github.com/BikutaDesu/Video-Tutorial-LibGDX">este</a>.
+</p>
+
 <div align="left">
 
   <h2></h2>
