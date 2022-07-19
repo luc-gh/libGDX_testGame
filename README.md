@@ -25,6 +25,13 @@
         </code></li><br/>
         <p>E ao enum:</p>
         <li><code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/EstadoJogo.java">EstadoJogo.java</a></code></li>
+        <br/>
+        <p>
+          Já o arquivo 
+          <code>
+          <a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/desktop/src/com/mygdx/jogo/DesktopLauncher.java">DesktopLauncher.java</a></code> 
+          é o executável do jogo, responsável pelas configurações de janela e que comanda a compilação e execução do programa.
+        </p>
       </p>
     </blockquote>
   </section>
@@ -32,9 +39,9 @@
     <p><b>Arquivos usados no projeto</b></p>
     <blockquote>
       <p>
-        O arquivo usado no projeto foi a <i>fonte-pixel.ttf</i>, presente na pasta 
+        O arquivo de fonte usado no projeto foi a <i>fonte-pixel.ttf</i>, presente na pasta 
         <code><a href="https://github.com/luc-gh/libGDX_firstGame/tree/master/assets">assets</a></code>.<br/>
-        A imagem presnete na pasta não foi inserida, mas pode ser usada de acordo com as especificações de projeto.
+        A imagem presente na pasta não foi inserida, mas pode ser usada de acordo com as especificações de projeto.
       </p>
     </blockquote>
   </section>
