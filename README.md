@@ -17,19 +17,19 @@
     <p><b>A lógica de jogo</b></p>
     <blockquote>
       <p>
-        O código da classe <code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/jogo.java">jogo.java</a></code>
+        O código da classe <code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/main/core/src/com/mygdx/jogo/jogo.java">jogo.java</a></code>
         contém a lógica de jogo em associação às classes:
-        <li><code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/bolinha.java">bolinha.java</a></code></li>
+        <li><code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/main/core/src/com/mygdx/jogo/bolinha.java">bolinha.java</a></code></li>
         <li><code>
-        <a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/ProcessadorInput.java">ProcessadorInput.java</a>
+        <a href="https://github.com/luc-gh/libGDX_firstGame/blob/main/core/src/com/mygdx/jogo/ProcessadorInput.java">ProcessadorInput.java</a>
         </code></li><br/>
         <p>E ao enum:</p>
-        <li><code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/core/src/com/mygdx/jogo/EstadoJogo.java">EstadoJogo.java</a></code></li>
+        <li><code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/main/core/src/com/mygdx/jogo/EstadoJogo.java">EstadoJogo.java</a></code></li>
         <br/>
         <p>
           Já o arquivo 
           <code>
-          <a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/desktop/src/com/mygdx/jogo/DesktopLauncher.java">DesktopLauncher.java</a></code> 
+          <a href="https://github.com/luc-gh/libGDX_firstGame/blob/main/desktop/src/com/mygdx/jogo/DesktopLauncher.java">DesktopLauncher.java</a></code> 
           é o executável do jogo, responsável pelas configurações de janela e que comanda a compilação e execução do programa.
         </p>
       </p>
@@ -40,7 +40,7 @@
     <blockquote>
       <p>
         O arquivo de fonte usado no projeto foi a <i>fonte-pixel.ttf</i>, presente na pasta 
-        <code><a href="https://github.com/luc-gh/libGDX_firstGame/tree/master/assets">assets</a></code>.<br/>
+        <code><a href="https://github.com/luc-gh/libGDX_firstGame/tree/main/assets">assets</a></code>.<br/>
         A imagem presente na pasta não foi inserida, mas pode ser usada de acordo com as especificações de projeto.
       </p>
     </blockquote>
@@ -51,7 +51,7 @@
       <p>
         O framework usado no projeto foi o <a href="https://github.com/libgdx/libgdx"><b>libGDX</b></a>, que oferece diversos recursos para
         o desenvolvimento de jogos em Java.<br/>
-        <b><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/gdx-setup.jar">Neste site</a></b> é possível baixar a última versão
+        <b><a href="https://libgdx.com/wiki/start/project-generation">Neste site</a></b> é possível baixar a última versão
         do gerador de projeto do framework.
       </p>
     </blockquote>
