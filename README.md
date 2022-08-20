@@ -51,7 +51,7 @@
       <p>
         O framework usado no projeto foi o <a href="https://github.com/libgdx/libgdx"><b>libGDX</b></a>, que oferece diversos recursos para
         o desenvolvimento de jogos em Java.<br/>
-        O arquivo <code><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/gdx-setup.jar">gdx-setup.jar</a></code> executa a versão 1.11.0
+        <b><a href="https://github.com/luc-gh/libGDX_firstGame/blob/master/gdx-setup.jar">Neste site</a></b> é possível baixar a última versão
         do gerador de projeto do framework.
       </p>
     </blockquote>
