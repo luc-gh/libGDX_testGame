@@ -1,5 +1,5 @@
 <h1 align="left">
-  libGDX_firstGame
+  libGDX_testGame
 </h1>
 <p>Este repositório contém classes Java com os códigos de execução de um jogo simples, com auxílio do framework para jogos libGDX.</p>
 <p>
